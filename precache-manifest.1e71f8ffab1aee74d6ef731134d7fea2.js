@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd2b858fdf77bf8220a5124d3c339e88",
+    "revision": "4d8cd59db3c2ea6e9d721bf3e75db2d1",
     "url": "/madelinelise/index.html"
   },
   {
-    "revision": "b0a15a0e97d388f55155",
+    "revision": "410e9dc1bc5fb61a2390",
     "url": "/madelinelise/static/css/main.73407da7.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madelinelise/static/js/2.d1fa9980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0a15a0e97d388f55155",
-    "url": "/madelinelise/static/js/main.fd875abb.chunk.js"
+    "revision": "410e9dc1bc5fb61a2390",
+    "url": "/madelinelise/static/js/main.0fea41b4.chunk.js"
   },
   {
     "revision": "3f029f9170064d376744",
     "url": "/madelinelise/static/js/runtime-main.8cbd620c.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/madelinelise/static/media/logo.5d5d9eef.svg"
   }
 ]);
