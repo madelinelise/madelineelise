@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/madelinelise/madelineelise/static/css/main.73407da7.chunk.css",
+    "main.js": "/madelinelise/madelineelise/static/js/main.f4e6c61d.chunk.js",
+    "main.js.map": "/madelinelise/madelineelise/static/js/main.f4e6c61d.chunk.js.map",
+    "runtime-main.js": "/madelinelise/madelineelise/static/js/runtime-main.1c20faec.js",
+    "runtime-main.js.map": "/madelinelise/madelineelise/static/js/runtime-main.1c20faec.js.map",
+    "static/js/2.d1fa9980.chunk.js": "/madelinelise/madelineelise/static/js/2.d1fa9980.chunk.js",
+    "static/js/2.d1fa9980.chunk.js.map": "/madelinelise/madelineelise/static/js/2.d1fa9980.chunk.js.map",
+    "index.html": "/madelinelise/madelineelise/index.html",
+    "precache-manifest.b1d4fc3b8666d217e8fd3b8c5acbe668.js": "/madelinelise/madelineelise/precache-manifest.b1d4fc3b8666d217e8fd3b8c5acbe668.js",
+    "service-worker.js": "/madelinelise/madelineelise/service-worker.js",
+    "static/css/main.73407da7.chunk.css.map": "/madelinelise/madelineelise/static/css/main.73407da7.chunk.css.map",
+    "static/js/2.d1fa9980.chunk.js.LICENSE.txt": "/madelinelise/madelineelise/static/js/2.d1fa9980.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/madelinelise/madelineelise/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c20faec.js",
+    "static/js/2.d1fa9980.chunk.js",
+    "static/css/main.73407da7.chunk.css",
+    "static/js/main.f4e6c61d.chunk.js"
+  ]
+}
