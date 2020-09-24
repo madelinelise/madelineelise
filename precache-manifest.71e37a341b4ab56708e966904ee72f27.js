@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "722237bcbf1bd8771c094b2dc1bc1da1",
+    "revision": "d4c321d3f1370cfd98a921d131a08723",
     "url": "/madelinelise/index.html"
   },
   {
-    "revision": "e81ea5ed4ab950262de9",
+    "revision": "96f485eb6a66bd35bcd8",
     "url": "/madelinelise/static/css/main.4cbe1b73.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madelinelise/static/js/2.d1fa9980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e81ea5ed4ab950262de9",
-    "url": "/madelinelise/static/js/main.9c4d0be6.chunk.js"
+    "revision": "96f485eb6a66bd35bcd8",
+    "url": "/madelinelise/static/js/main.2bdffdd5.chunk.js"
   },
   {
     "revision": "3f029f9170064d376744",
